@@ -1,4 +1,10 @@
 # Created by .ignore support plugin (hsz.mobi)
+
+
+checkpoints/*
+wandb
+flow/ARFlow/outputs/checkpoints/
+
 ### Python template
 # Byte-compiled / optimized / DLL files
 __pycache__/
